@@ -10,14 +10,14 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/DerickxP/Task-Automation">
 
    <a href="https://github.com/DerickxP/Task-Automation/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DerickxP/DataAnalysis-CustomerCancellation">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DerickxP/Task-Automation">
   </a>
   
   </p>
 
-In this code a data analysis model with Python will be shown.
+This is a task automation project, this one in particular will register several products from a list on a website.
 
-# **📝 Case - Customer Cancellation**
+# **📝 Case - Inventory of Products for Sale**
 " A company with more than 800,000 customers recently noticed that its customer base is mostly inactive customers, that is, customers who have already canceled their service.
 Needing to improve her results, she wants to be able to understand the main reasons for these cancellations and what are the most efficient actions to reduce this number."
 
